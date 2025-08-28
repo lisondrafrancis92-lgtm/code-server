@@ -1,0 +1,11 @@
+# Cooking an Egg
+
+def cook_egg():
+    print("Put oil in a pan")
+    print("Heat the oil")
+    print("Crack the egg in the pan")
+    print("Put condiments")
+    input("Press Enter when the egg is cooked...")
+    print("Eat the cooked egg")
+
+cook_egg()
