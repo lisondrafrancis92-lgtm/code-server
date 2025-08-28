@@ -1,0 +1,11 @@
+def make_coffee():
+    print("1. Boiling water...")
+    print("2. Grinding coffee beans...")
+    print("3. Preparing filter...")
+    print("4. Adding coffee to filter...")
+    print("5. Pouring hot water over coffee...")
+    print("6. Allowing coffee to drip into cup...")
+    print("7. Serving and enjoying coffee!")
+
+# Run the procedure
+make_coffee()
